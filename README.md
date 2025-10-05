@@ -1,7 +1,7 @@
 # 🧠 SFANet: Spatial-Frequency Attention Network for Deepfake Detection
 
 <p align="center">
-  <img src="assets/architecture.png" width="70%">
+  <img src="assets/architecture.png" width="40%">
 </p>
 
 ## 📘 Overview
@@ -158,8 +158,8 @@ If you find this work useful, please cite:
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="assets/face_cropping.png" width="50%">
-  <img src="assets/data_split.png" width="50%">
+  <img src="assets/face_cropping.png" width="45%">
+  <img src="assets/data_split.png" width="45%">
 </p>
 
 ---
