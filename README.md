@@ -138,16 +138,6 @@ SFANet/
 ├── predict.py
 └── README.md
 ```
-
----
-
-## 🧑‍💻 Authors
-
-**Vrushank Ahire**, **Aniruddh Muley**, **Shivam Zample**,
-**Siddharth Verma**, **Pranav Menon**, **Abhinav Dhall (Supervisor)**
-Indian Institute of Technology Ropar, Punjab, India
-Monash University, Melbourne, Australia
-
 ---
 
 ## 📄 Citation
@@ -177,7 +167,8 @@ If you find this work useful, please cite:
 ## 📬 Contact
 
 For queries or collaboration:
-📧 [2022csb1002@iitrpr.ac.in](mailto:2022csb1002@iitrpr.ac.in) | 🌐 [IIT Ropar CSE](https://www.iitrpr.ac.in/cse)
+📧 2022csb1002@iitrpr.ac.in | 2022mcb1257@iitrpr.ac.in | 2022mcb1280@iitrpr.ac.in | 2022csb1126@iitrpr.ac.in | 2022csb1329@iitrpr.ac.in | abhinav.dhall@monash.edu  
+🌐 [IIT Ropar CSE](https://www.iitrpr.ac.in/cse)
 
 ---
 
