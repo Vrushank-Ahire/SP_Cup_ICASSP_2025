@@ -190,5 +190,3 @@ We thank:
 * **IIT Ropar – Department of CSE**
 
 ---
-
-**MIT License** © 2025 IIT Ropar – Deepfake Detection Team
