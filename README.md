@@ -20,7 +20,7 @@ The proposed ensemble combines:
 - **SwinFusion** for multi-cluster sequential training.
 
 <p align="center">
-  <img src="assets/final_pipeline.png" width="80%">
+  <img src="assets/final_pipeline.png" width="50%">
 </p>
 
 ---
@@ -168,8 +168,8 @@ If you find this work useful, please cite:
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="assets/face_cropping.png" width="48%">
-  <img src="assets/data_split.png" width="48%">
+  <img src="assets/face_cropping.png" width="50%">
+  <img src="assets/data_split.png" width="50%">
 </p>
 
 ---
