@@ -179,5 +179,4 @@ We thank:
 * **IEEE SPCUP 2025 Organizers**
 * **Monash University – Faculty of IT**
 * **IIT Ropar – Department of CSE**
-
 ---
